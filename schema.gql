@@ -1,0 +1,17 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type User {
+  id: Int!
+  name: String!
+  email: String!
+}
+
+type Query {
+  getUsers(limit: Int, offset: Int): [User!]!
+}
+
+type Mutation {
+  addUser(name: String!, email: String!): User!
+}
