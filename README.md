@@ -14,7 +14,7 @@ This project is a simple GraphQL API built with NestJS that allows clients to qu
 - [NestJS](https://nestjs.com/)
 - [GraphQL](https://graphql.org/)
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
-- TypeScript
+- [TypeScript](https://www.typescriptlang.org)
 
 ## Getting Started
 
@@ -100,10 +100,6 @@ You can implement custom decorators for authorization by defining them in your p
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
